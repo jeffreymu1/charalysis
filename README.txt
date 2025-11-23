@@ -1,0 +1,1 @@
+simple prediction of atk/def formation
