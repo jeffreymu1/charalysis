@@ -1,6 +1,0 @@
-seed,model,best_cv_acc,test_acc,test_roc_auc,best_params,test_precision,test_recall,test_f1
-0,logreg_elastic,0.5833333333333334,0.5238095238095238,0.55,"{'clf__C': 0.01, 'clf__class_weight': None, 'clf__l1_ratio': 0.1}",0.5,0.5,0.5
-1,logreg_elastic,0.5555555555555556,0.7142857142857143,0.7227272727272728,"{'clf__C': 0.1, 'clf__class_weight': None, 'clf__l1_ratio': 0.5}",0.8333333333333334,0.5,0.625
-2,logreg_elastic,0.5444444444444445,0.5238095238095238,0.6,"{'clf__C': 0.1, 'clf__class_weight': None, 'clf__l1_ratio': 0.5}",0.5,0.7,0.5833333333333334
-3,logreg_elastic,0.55,0.7142857142857143,0.7272727272727273,"{'clf__C': 0.1, 'clf__class_weight': None, 'clf__l1_ratio': 0.5}",0.75,0.6,0.6666666666666666
-5,logreg_elastic,0.611111111111111,0.5714285714285714,0.5681818181818181,"{'clf__C': 0.1, 'clf__class_weight': None, 'clf__l1_ratio': 0.9}",0.5555555555555556,0.5,0.5263157894736842

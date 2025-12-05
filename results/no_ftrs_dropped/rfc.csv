@@ -1,0 +1,6 @@
+seed,model,best_cv_acc,test_acc,test_roc_auc,best_params,test_precision,test_recall,test_f1
+0,rfc,0.576529160739687,0.5909090909090909,0.640495867768595,"{'clf__class_weight': None, 'clf__max_depth': None, 'clf__max_features': 'sqrt', 'clf__min_samples_leaf': 8, 'clf__n_estimators': 300}",0.625,0.45454545454545453,0.5263157894736842
+1,rfc,0.5293029871977241,0.6818181818181818,0.7479338842975207,"{'clf__class_weight': None, 'clf__max_depth': 5, 'clf__max_features': 0.25, 'clf__min_samples_leaf': 3, 'clf__n_estimators': 800}",0.8333333333333334,0.45454545454545453,0.5882352941176471
+2,rfc,0.5497866287339972,0.45454545454545453,0.47520661157024785,"{'clf__class_weight': 'balanced', 'clf__max_depth': 5, 'clf__max_features': 'sqrt', 'clf__min_samples_leaf': 5, 'clf__n_estimators': 300}",0.46153846153846156,0.5454545454545454,0.5
+3,rfc,0.5827880512091038,0.7272727272727273,0.7768595041322316,"{'clf__class_weight': None, 'clf__max_depth': None, 'clf__max_features': 0.5, 'clf__min_samples_leaf': 8, 'clf__n_estimators': 300}",0.8571428571428571,0.5454545454545454,0.6666666666666666
+5,rfc,0.5662873399715506,0.5909090909090909,0.5495867768595042,"{'clf__class_weight': 'balanced', 'clf__max_depth': 5, 'clf__max_features': 0.5, 'clf__min_samples_leaf': 1, 'clf__n_estimators': 300}",0.5833333333333334,0.6363636363636364,0.6086956521739131
